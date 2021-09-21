@@ -1,2 +1,1 @@
-# StevenQuiz.github.io
-https://joaocarvalho987.github.io/StevenQuiz.github.io/
+https://redfoxyy.github.io/MGMT-QUIZ/
